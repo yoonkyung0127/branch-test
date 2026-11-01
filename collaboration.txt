@@ -1,2 +1,2 @@
-Shared status: the feature is ready for integration.
-Next step: test the result before deployment.
+Shared status: the feature is integrated, and the urgent correction is recorded.
+Next step: test the combined result before deployment.
