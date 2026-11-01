@@ -1,0 +1,2 @@
+Shared status: the project is ready for collaboration.
+Next step: test the result before deployment.
