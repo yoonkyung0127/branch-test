@@ -1,2 +1,2 @@
-Shared status: the project is ready for collaboration.
+Shared status: the feature is ready for integration.
 Next step: test the result before deployment.
