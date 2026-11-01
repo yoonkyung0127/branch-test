@@ -1,2 +1,2 @@
-Shared status: the project is ready for collaboration.
+Shared status: an urgent correction is recorded.
 Next step: test the result before deployment.
